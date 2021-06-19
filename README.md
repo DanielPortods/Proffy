@@ -7,3 +7,14 @@ Ocurred in august 3 to 9, this event instructed about the fundaments of web and 
 a practical method: developping this simple platform.
 
 <strong>Proffy</strong> is the result of five days development.
+
+# Usage:
+To run this simple aplication, you'll need the npm, and the node.js installed.
+- Clonig this repository:
+> $ git clone https://github.com/DanielPortods/2020.1-Vamos_Cuidar.git
+
+- Inside of the project folder run this:
+> $ npm install <br>
+> $ npm run dev
+
+- Access the localhost:5000 in yout browser
