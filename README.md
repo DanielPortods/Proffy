@@ -17,4 +17,4 @@ To run this simple aplication, you'll need the npm, and the node.js installed.
 > $ npm install <br>
 > $ npm run dev
 
-- Access the localhost:5000 in yout browser
+- Access the localhost:5000 in your browser
