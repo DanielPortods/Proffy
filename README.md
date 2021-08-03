@@ -11,7 +11,7 @@ a practical method: developping this simple platform.
 # Usage:
 To run this simple aplication, you'll need the npm, and the node.js installed.
 - Clonig this repository:
-> $ git clone https://github.com/DanielPortods/2020.1-Vamos_Cuidar.git
+> $ git clone https://github.com/DanielPortods/Proffy.git
 
 - Inside of the project folder run this:
 > $ npm install <br>
